@@ -36,5 +36,15 @@ Running `01_pipeline_EB.R` will generate:
 Clone the repo and run the pipeline:
 
 ```r
+
+
+
+## How to run
+
+1) Install dependencies and run the full pipeline:
+```r
+# from the repo root in R/RStudio
+source("scripts/main.R")
+
 source("01_pipeline_EB.R")
 
