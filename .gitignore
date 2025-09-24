@@ -1,0 +1,9 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Opcional: ignorar resultados grandes (dejá comentado si querés versionarlos)
+# outputs/*
+# figures/*
