@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Pleurotus pulmonarius — EB Prediction (RF & Decision Trees)"
+type: software
+authors:
+  - family-names: González
+    given-names: C.
+  - family-names: Iocoli
+    given-names: G. A.
+  - family-names: Postemsky
+    given-names: P. D.
+repository-code: "https://github.com/carogonzalez991-prog/Pleurotus-pulmonarius-characterization"
+license: "CC-BY-NC-4.0"
+keywords:
+  - mushrooms
+  - Pleurotus pulmonarius
+  - biological efficiency
+  - Random Forest
+  - Decision Trees
+  - Bland-Altman
+  - substrate characterization
+version: "1.0.0"
+date-released: "2025-09-24"
